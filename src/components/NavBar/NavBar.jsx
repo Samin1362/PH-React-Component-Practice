@@ -1,6 +1,6 @@
 import React from 'react';
 
-const NavBar = () => {
+const NavBar = ({totalBalance}) => {
   return (
     <div className='max-w-[1320px] mx-auto mt-[50px]'>
       <nav className='flex justify-between items-center'>
@@ -12,7 +12,7 @@ const NavBar = () => {
           <li>Fixture</li>
           <li>Teams</li>
           <li>Schedules</li>
-          <li className='bg-white text-black font-bold px-[20px] py-[16px] rounded-lg'>0 Coin</li>
+          <li className='bg-white text-black font-bold px-[20px] py-[16px] rounded-lg'>{totalBalance} Coin</li>
         </ul>
       </nav>
     </div>
