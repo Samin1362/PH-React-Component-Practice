@@ -5,7 +5,7 @@ const NavBar = ({totalBalance}) => {
     <div className='max-w-[1320px] mx-auto mt-[50px]'>
       <nav className='flex justify-between items-center'>
         <div>
-          <img src="/src/assets/logo.png" alt="" />
+          <img src="/images/logo.png" alt="" />
         </div>
         <ul className='flex text-xl gap-[48px] items-center'>
           <li>Home</li>

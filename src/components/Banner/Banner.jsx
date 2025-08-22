@@ -2,11 +2,11 @@ import React from "react";
 
 const Banner = ({handleTotalBalance}) => {
   return (
-    <div className="max-w-[1320px] mx-auto bg-[url('/src/assets/bg-shadow.png')] py-[64px] px-[175px] mt-[24px] rounded-2xl">
+    <div className="max-w-[1320px] mx-auto bg-[url('/images/bg-shadow.png')] bg-black text-white py-[64px] px-[175px] mt-[24px] rounded-2xl">
       <div className="max-w-[970px] flex flex-col justify-center items-center text-center ">
         <img
           className="mx-auto mb-[24px]"
-          src="/src/assets/banner-main.png"
+          src="/images/banner-main.png"
           alt=""
         />
         <h1 className="text-[40px] font-bold">
