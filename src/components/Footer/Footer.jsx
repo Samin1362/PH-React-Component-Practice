@@ -4,13 +4,13 @@ const Footer = () => {
   return (
     <div>
       {/* footer upper section */}
-      <div className="relative top-[150px] max-w-[1320px] bg-white/30 mx-auto flex flex-col justify-center items-center p-[24px] border-2 border-white rounded-lg">
+      <div className="relative top-[150px] text-[black] max-w-[1320px] bg-white/30 mx-auto flex flex-col justify-center items-center p-[24px] border-2 border-white rounded-lg">
         <div className="bg-[url('/images/bg-shadow.png')] bg-cover w-full p-[24px] bg-[white] flex flex-col justify-center items-center rounded-lg py-[88px]">
           <h1 className="text-[32px] font-bold">Subscribe to our Newsletter</h1>
           <p className="my-[24px]">Get the latest updates and news right in your inbox!</p>
-          <div className="flex gap-3">
-            <input type="text" className="px-[30px] py-[18px] w-[400px] border-2 border-[gray] rounded-lg" placeholder="Enter your email" />
-            <button className="bg-[yellow] py-[18px] px-[30px] rounded-lg font-bold">Subscribe</button>
+          <div className="md:flex gap-3">
+            <input type="text" className="px-[30px] py-[18px] bg-white md:w-[400px] border-2 border-[gray] rounded-lg" placeholder="Enter your email" />
+            <button className="mt-[10px] bg-[yellow] text-[black] py-[18px] px-[30px] rounded-lg font-bold">Subscribe</button>
           </div>
         </div>
       </div>
@@ -20,7 +20,7 @@ const Footer = () => {
           <div className="footer-image mx-auto mt-[160px]">
             <img src="/images/logo-footer.png" alt="" />
           </div>
-          <div className="flex justify-center gap-[117px] mt-[64px]">
+          <div className="flex flex-col md:flex-row text-center md:text-left justify-center gap-[40px] md:gap-[117px] mt-[64px]">
             <div>
               <h1 className="font-bold">About Us</h1>
               <p>
@@ -48,7 +48,7 @@ const Footer = () => {
                   className="bg-white py-[14px] px-[30px] text-black rounded-l-lg"
                   placeholder="Enter your email"
                 />
-                <button className="bg-[yellow] font-bold text-black text-center px-[30px] py-[14px] rounded-r-lg">
+                <button className="bg-[yellow] font-bold text-[black] text-center px-[30px] py-[14px] rounded-r-lg">
                   Subscribe
                 </button>
               </div>

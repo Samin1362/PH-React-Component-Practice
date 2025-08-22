@@ -21,7 +21,7 @@ const Main = () => {
         </div>
       </div>
 
-      <div className="max-w-[1320px] mx-auto grid grid-cols-3 gap-[24px] mt-[32px]">
+      <div className="max-w-[1320px] mx-auto grid grid-cols-1 md:grid-cols-3 gap-[24px] mt-[32px]">
         {
           players.map((player, idx) => <Card key={idx} player={player}></Card>)
         }
