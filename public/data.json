@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "name": "Rohid Sharma",
+    "nationality": "India",
+    "price": 850,
+    "type": "Batter",
+    "image": "https://admin.thecricketer.com/weblab/Sites/96c8b790-b593-bfda-0ba4-ecd3a9fdefc2/resources/images/site/sharmaheadshot-min.jpg"
+  },
+  {
+    "id": 2,
+    "name": "James Anderson",
+    "nationality": "England",
+    "price": 920,
+    "type": "Bowler",
+    "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/12195/production/_97733147_jamesanderson.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Mitchell Starc",
+    "nationality": "Australia",
+    "price": 970,
+    "type": "Bowler",
+    "image": "https://e0.365dm.com/23/11/1600x900/skysports-mitchell-starc-south-africa-vs-australia_6362250.jpg?20231116090543"
+  },
+  {
+    "id": 4,
+    "name": "Kane Williamson",
+    "nationality": "New Zealand",
+    "price": 880,
+    "type": "Batter",
+    "image": "https://admin.thecricketer.com/weblab/Sites/96c8b790-b593-bfda-0ba4-ecd3a9fdefc2/resources/images/site/kanewilliamsonheadshot-min.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Shakib Al Hasan",
+    "nationality": "Bangladesh",
+    "price": 995,
+    "type": "All-rounder",
+    "image": "https://images.supersport.com/media/rifj1yrv/shakib-al-hasan-1200g.jpg?width=1920&quality=90&format=webp"
+  },
+  {
+    "id": 6,
+    "name": "Babar Azam",
+    "nationality": "Pakistan",
+    "price": 940,
+    "type": "Batter",
+    "image": "https://s3.ap-southeast-1.amazonaws.com/images.asianage.com/images/aa-Cover-uf8oitmerej3i887vc4j7ldka0-20190524095942.Medi.jpeg"
+  },
+  {
+    "id": 7,
+    "name": "David Miller",
+    "nationality": "South Africa",
+    "price": 780,
+    "type": "Batter",
+    "image": "https://c.ndtvimg.com/2022-06/7h1b2qo8_david-miller-afp_625x300_15_June_22.jpeg?im=FeatureCrop,algorithm=dnn,width=806,height=605"
+  },
+  {
+    "id": 8,
+    "name": "Lasith Malinga",
+    "nationality": "Sri Lanka",
+    "price": 860,
+    "type": "Bowler",
+    "image": "https://p.imgci.com/db/PICTURES/CMS/289100/289181.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Chris Gayle",
+    "nationality": "West Indies",
+    "price": 990,
+    "type": "All-rounder",
+    "image": "https://www.zapcricket.com/cdn/shop/articles/WhatsApp_Image_2024-01-25_at_07.52.26.webp?v=1706153552"
+  },
+  {
+    "id": 10,
+    "name": "Mohammad Nabi",
+    "nationality": "Afghanistan",
+    "price": 730,
+    "type": "All-rounder",
+    "image": "https://amu.tv/wp-content/uploads/2024/11/Mohammad-Nabi.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Paul Stirling",
+    "nationality": "Ireland",
+    "price": 610,
+    "type": "Batter",
+    "image": "https://e0.365dm.com/22/05/2048x1152/paul-stirling-birmingham-bears_5785397.jpg?20220526223336"
+  },
+  {
+    "id": 12,
+    "name": "Kyle Coetzer",
+    "nationality": "Scotland",
+    "price": 540,
+    "type": "Batter",
+    "image": "https://static.theprint.in/wp-content/uploads/2022/06/Capture2022060107353820220601074650.jpg"
+  }
+]
