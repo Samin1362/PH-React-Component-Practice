@@ -21,7 +21,7 @@ function App() {
     <>
       <NavBar totalBalance = {totalBalance}></NavBar>
       <Banner handleTotalBalance = {handleTotalBalance}></Banner>
-      <Main></Main>
+      <Main totalBalance={totalBalance} setTotalBalance={setTotalBalance}></Main>
       <Footer></Footer>
     </>
   )

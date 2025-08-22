@@ -15,8 +15,8 @@ const Banner = ({handleTotalBalance}) => {
         <p className="text-[24px] text-[##ffffffb3]">
           Beyond Boundaries Beyond Limits
         </p>
-        <div className="mt-[24px] border-2 border-[#E7FE29] p-[8px] rounded-lg max-w-[200px]">
-          <button onClick={() => handleTotalBalance(1000)} className="bg-[#E7FE29] text-[black] font-bold px-[20px] py-[14px] rounded-lg">
+        <div className="mt-[24px] border-2 border-[#E7FE29] hover:border-yellow-300 p-[8px] rounded-lg max-w-[200px]">
+          <button onClick={() => handleTotalBalance(1000)} className="bg-[#E7FE29] hover:bg-yellow-300 text-[black] font-bold px-[20px] py-[14px] rounded-lg">
             Claim Free Credit
           </button>
         </div>
