@@ -25,7 +25,7 @@ const Card = ({ player }) => {
         <h3 className="font-bold">Rating</h3>
         <div className="mt-[12px] flex items-center justify-between">
           <h3 className="font-bold">Price: {price}</h3>
-          <button className="bg-white text-[14px] text-black py-[9px] px-[16px] font-bold rounded-lg">Choose Player</button>
+          <button className="bg-white text-[14px] text-black py-[9px] px-[16px] border-2 border-gray-400 font-bold rounded-lg">Choose Player</button>
         </div>
       </div>
     </div>
